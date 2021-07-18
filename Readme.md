@@ -1,6 +1,6 @@
 # :scissors:Barber&Coffe
 - :books:Learning Project
-- :Website design for Barbershop
+- :scissors:Website design for Barbershop
 - :computer:Project under development
 
 
